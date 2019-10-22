@@ -1,0 +1,7 @@
+flask
+Flask-PyMongo
+Flask-MongoAlchemy
+flask_jsonschema_validator
+PyMongo
+mongoengine
+flask-mongoengine
